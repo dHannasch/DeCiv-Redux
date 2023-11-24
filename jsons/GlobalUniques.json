@@ -9,6 +9,9 @@
 		"Rebel units may spawn <when below [-20] Happiness>",
 
 		"[-1] Sight <for [Embarked] units>",
+
+		"Reveal up to [All] [Mountain] within a [999] tile radius <upon founding a city>",
+		"Reveal up to [All] [Ocean] within a [999] tile radius <upon founding a city>",
         
 		//Combat Nullifier Related Uniques
 		
